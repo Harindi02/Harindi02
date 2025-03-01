@@ -1,4 +1,4 @@
-<h1 align="center">Hello👋, I'm Your Harindi Gunarathne</h1>
+<h1 align="center">Hello👋, I'm Harindi Gunarathne</h1>
 
 <p align="center">
   <b>Computer Science Student | Passionate about Coding</b>
