@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 About Me:
-- 🌱 I’m currently learning **Flutter, Spring Boot, React**
+- 🌱 I’m currently learning **Flutter, Spring Boot**
 - 📸 Capturing memories through travel photography
 - 📫 How to reach me **durangaharindi@gmail.com**
 
