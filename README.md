@@ -21,8 +21,7 @@
 
 ---
 
-### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harindi02&show_icons=true&theme=dark)
+
 
 
 <!--
