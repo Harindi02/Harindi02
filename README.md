@@ -1,4 +1,8 @@
-<h1 align="center">Hello👋, I'm Harindi Gunarathne</h1>
+
+<h1 align="center">
+  Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Harindi Gunarathe
+</h1>
+
 
 <p align="center">
   <b>Computer Science Student | Passionate about Coding</b>
